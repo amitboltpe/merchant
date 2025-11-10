@@ -1,0 +1,16 @@
+# Ignore editor swap files
+*.swp
+*.swo
+
+# Ignore logs
+storage/logs
+
+# Ignore git files
+.git
+.gitignore
+
+# Ignore dependency and temporary directories
+node_modules
+vendor
+*.log
+*.tmp
